@@ -27,17 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
 
 
 
-###
-
-
-###
-
-
-<p align="left">Hello World!!</p>
+<p align="cenetr">Hello World!!</p>
 
 ###
 
