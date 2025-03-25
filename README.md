@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Amardev Panwar . 🚀 Passionate front end developer| 💻 Coding enthusiast |,or cs student i am from uttarakhand,uttarkashi.</h2>
+<h2 align="left">👋 Hi, I'm Amardev Panwar . <br>🚀 Passionate fullstack developer| 💻 Coding enthusiast |,or cs student i am from uttarakhand,uttarkashi.</h2>
 
 ###
 
