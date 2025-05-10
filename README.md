@@ -1,4 +1,25 @@
-<h2 align="left">👋 Hi, I'm Amardev Panwar . <br>🚀 Passionate fullstack developer|<br> 💻 Coding enthusiast</h2>
+<h2 align="left">
+  👋 Hi, I'm Amardev Panwar  
+</h2>
+
+<p align="left">
+  🚀 I'm a passionate Full-Stack Developer with a strong foundation in front-end and back-end technologies.  
+  💻 I love building interactive, scalable web applications and exploring the latest in tech innovation.  
+  🎯 Currently focused on mastering DSA, system design, and modern frameworks like React & Node.js.  
+</p>
+
+---
+
+### 📌 Portfolio Overview
+
+This is my personal portfolio website built using **HTML5, CSS3, JavaScript**, and enhanced with:
+
+- **Locomotive Scroll** – for smooth scrolling and subtle animations  
+- **Spline 3D** – for embedding interactive 3D models  
+- **Responsive Design** – optimized for mobile and desktop  
+- **Clean UI/UX** – focused on performance and design aesthetics
+
+
 
 ###
 
