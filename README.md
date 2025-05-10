@@ -10,15 +10,6 @@
 
 ---
 
-### 📌 Portfolio Overview
-
-This is my personal portfolio website built using **HTML5, CSS3, JavaScript**, and enhanced with:
-
-- **Locomotive Scroll** – for smooth scrolling and subtle animations  
-- **Spline 3D** – for embedding interactive 3D models  
-- **Responsive Design** – optimized for mobile and desktop  
-- **Clean UI/UX** – focused on performance and design aesthetics
-
 
 
 ###
