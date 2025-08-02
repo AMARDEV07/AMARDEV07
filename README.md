@@ -155,9 +155,8 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-📍 **Location:** Dadri, Uttar Pradesh, India  
+📍 **Location:**  India  
 ☕ **Coffee or Tea:** Coffee all the way!  
-🎵 **Coding Music:** Lo-fi beats and instrumental  
 🌙 **Night Owl:** Best code happens after midnight  
 
 </div>
