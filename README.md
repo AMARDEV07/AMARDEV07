@@ -61,7 +61,6 @@ const amardev = {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Database**
@@ -114,7 +113,7 @@ const amardev = {
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/blog-app)
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github)](https://blogy-post-mern-app.vercel.app/)
 
 </div>
 
@@ -132,12 +131,10 @@ const amardev = {
 
 **Tech Stack:** MERN Stack + JWT Authentication  
 **Dashboard Features:**
-- 📊 Sales analytics & reporting
+
 - 📦 Product management system
 - 👥 User management with roles
 - 🔒 **JWT Token** based security
-- 📈 Real-time data visualization
-- 🛒 Order tracking & management
 
 <div align="center">
 
@@ -171,7 +168,7 @@ const amardev = {
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-45B7D1?style=for-the-badge&logo=vercel)](https://amardev-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-45B7D1?style=for-the-badge&logo=vercel)](https://https://amardev07.github.io/amar.dev/)
 [![Code](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/portfolio)
 
 </div>
@@ -199,7 +196,7 @@ const amardev = {
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-9B59B6?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/prosha-ui)
+[![View Project](https://img.shields.io/badge/View_Project-9B59B6?style=for-the-badge&logo=github)](https://f1-bm13w6ojr-amardev07s-projects.vercel.app/)
 
 </div>
 
