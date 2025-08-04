@@ -24,7 +24,7 @@ const amardev = {
     location: "India 🇮🇳",
     education: "Learning & Growing",
     interests: ["Web Development", "Problem Solving", "New Technologies"],
-    currentlyLearning: ["DSA", "System Design", "Advanced React"],
+    currentlyLearning: ["DSA", "System Design", "React",],
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
 ```
@@ -62,7 +62,6 @@ const amardev = {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Database**
