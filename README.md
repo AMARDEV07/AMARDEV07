@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=AMARDEV%20PANWAR&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50"/>
 </div>
@@ -24,7 +23,7 @@ const amardev = {
     location: "India 🇮🇳",
     education: "Learning & Growing",
     interests: ["Web Development", "Problem Solving", "New Technologies"],
-    currentlyLearning: ["DSA", "System Design", "React",],
+    currentlyLearning: ["DSA", "System Design", "Advanced React"],
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
 ```
@@ -62,6 +61,7 @@ const amardev = {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Database**
@@ -96,24 +96,25 @@ const amardev = {
 
 <div align="center">
 
-### 🛍️ **E-Commerce Platform**
-<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" />
+### 📝 **Blog Application**
+<img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" />
 
 </div>
 
-**🎯 Modern online shopping experience**
+**🎯 Modern blogging platform with rich features**
 
-**Tech Stack:** React, Node.js, MongoDB, Stripe  
-**What it does:**
-- 🛒 Complete shopping cart functionality
-- 💳 Secure payment integration
-- 👤 User authentication & profiles
-- 📊 Admin dashboard for management
-- 📱 Responsive design for all devices
+**Tech Stack:** React, Node.js, Express, MongoDB  
+**Special Features:**
+- 🖼️ **ImageKit.io** for optimized image handling
+- 🔐 **Clerk** for seamless authentication
+- ⚡ **React Query** for efficient data fetching
+- 📱 Fully responsive design
+- ✍️ Rich text editor for content creation
+- 💬 Comment system with moderation
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/ecommerce-platform)
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/blog-app)
 
 </div>
 
@@ -122,24 +123,26 @@ const amardev = {
 
 <div align="center">
 
-### 📝 **Task Management App**
-<img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
+### 🛍️ **E-Commerce Dashboard**
+<img src="https://img.shields.io/badge/Status-Live-green?style=for-the-badge" />
 
 </div>
 
-**🎯 Organize tasks efficiently**
+**🎯 Complete admin dashboard for e-commerce**
 
-**Tech Stack:** Next.js, TypeScript, Prisma  
-**What it includes:**
-- ✅ Create, edit, and delete tasks
-- 🏷️ Categories and priority levels
-- 📅 Due date management
-- 👥 Team collaboration features
-- 📈 Progress tracking
+**Tech Stack:** MERN Stack + JWT Authentication  
+**Dashboard Features:**
+- 📊 Sales analytics & reporting
+- 📦 Product management system
+- 👥 User management with roles
+- 🔒 **JWT Token** based security
+- 📈 Real-time data visualization
+- 🛒 Order tracking & management
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/task-manager)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel)](https://github.com/AMARDEV07/ecommerce-dashboard)
+[![Code](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/ecommerce-dashboard)
 
 </div>
 
@@ -155,15 +158,16 @@ const amardev = {
 
 </div>
 
-**🎯 Personal brand showcase**
+**🎯 Interactive personal portfolio with smooth animations**
 
-**Tech Stack:** React, Framer Motion, Tailwind CSS  
-**Features:**
-- 🎨 Modern and clean design
-- ⚡ Smooth animations
-- 🌙 Dark/Light mode toggle
-- 📱 Mobile-first approach
-- 📧 Contact form integration
+**Tech Stack:** HTML5, CSS3, JavaScript, GSAP, Locomotive Scroll  
+**Animation Features:**
+- 🎨 **GSAP** powered smooth animations
+- 🚀 **Locomotive Scroll** for parallax effects
+- ⚡ Vanilla JavaScript interactions
+- 📱 Mobile-optimized experience
+- 🎯 Scroll-triggered animations
+- 🌟 Modern UI/UX design
 
 <div align="center">
 
@@ -177,24 +181,25 @@ const amardev = {
 
 <div align="center">
 
-### 🔐 **Authentication System**
-<img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge" />
+### 🎨 **Prosha UI**
+<img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" />
 
 </div>
 
-**🎯 Secure user management**
+**🎯 Modern UI component library with animations**
 
-**Tech Stack:** Node.js, Express, JWT, bcrypt  
-**Capabilities:**
-- 🔒 Secure login/signup system
-- 🌐 OAuth integration (Google, GitHub)
-- 📧 Email verification process
-- 🔑 Password reset functionality
-- 👤 Role-based permissions
+**Tech Stack:** React, GSAP, Skiper NPM  
+**UI Features:**
+- ⚛️ **React** component architecture
+- 🎭 **GSAP** animation library integration
+- 📦 **Skiper NPM** for enhanced functionality
+- 🧩 Reusable component collection
+- 🎨 Modern design system
+- 📚 Interactive component showcase
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-9B59B6?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/auth-system)
+[![View Project](https://img.shields.io/badge/View_Project-9B59B6?style=for-the-badge&logo=github)](https://github.com/AMARDEV07/prosha-ui)
 
 </div>
 
